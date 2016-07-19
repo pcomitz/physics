@@ -5,14 +5,18 @@ git commit -m "first commit"
 git remote add origin https://github.com/pcomitz/physics.git
 git push -u origin master
 
-then
+# then
 git add gitSetup7_17_2016.txt
 git add mod4_wk6
 
-then commit
+#then commit
 git commit -m "adding week 6 initial"
 
-then push
+#then push
 git push
 
 
+# to update this setup file
+
+git commit  -a -m "update setup file"
+git push

@@ -1,0 +1,89 @@
+
+HW 2 Number 1
+
+
+HW 2 Number 2
+
+Hw 2 , Number 3
+
+The adult took 0.564 s and the child took 0.260 s to come to rest. 
+Find the force that the airbag exerted on each individual. Explain why airbags tend to be
+dangerous to children. 
+Adult = -1683kg m/s .564 s = -2984.7N 
+Child = -842kg m/s .260 s = -3237N 
+
+This is a serious amount of force that the child gets due to their small frame this could lead to death or injury. 4. An automobile accident investigator needs to determine the initial westerly velocity of a Jeep
+Background image of page 1
+
+
+4) 
+
+(m=1720 kg) that may have been speeding before colliding head-on with a Volkswagen 
+(m=1510 kg) that was moving with a velocity of 75.7 km/h east. The speed limit on this road is 
+90 km/h. After the collision, the Jeep and the Volkswagen stuck together and continued to 
+travel with a velocity of 15.5 km/h west. 
+a. Find the initial westerly velocity of the Jeep. 
+(1720 kg (u1) +1510kg 975.7 km/h)+ (-15.5km/h)(1720kg + 1510kg) u1 =
+-96 km/h west 
+b. Was the Jeep speeding? Yes 
+
+5. Define the first and second conditions of equilibrium in your own words. 
+First- the net force acting on the object must be zero 
+Second-the sum of all the torques on an object is equilibrium is zero 
+
+6. Eight people are involved in a tug-of-war. The blue team members pull the rope with the forces of
+
+The total force in each direction has to be the same.
+
+The total force of the blue team is
+
+             (220 + 340 + 180 + 560) =  1,300 N 
+
+The three members of the red team add up to
+
+             (250 + 160 + 420) =  830 N
+
+In order to exactly match the  1,300 N of the blue team,
+the fourth red-team guy must contribute an additional
+
+                 (1,300 - 830) =  470 N .
+                 
+                 
+ 7) A scaffold supports a bricklayer and bricks weighing 450 lb. If the force at one end support is 290 lb, what is the supporting 
+ force at the other? 
+ a. 450 = 290 + X = 160 N 
+ 
+ 8. A torque wrench reads 25 lb ft. a. If its length is 1.0 ft, what force is being applied to the wrench? 
+ i  F = 25 pounds 
+ b. What is the force if the length is doubled? i F = 12.5 pounds 
+ 
+ 9. A gardener pushes a mower at a distance of 900 m while mowing the yard. The handle of the mower makes an angle of 
+ 40.0° with the ground. The gardener exerts a force of 35.0 N along the handle of the mower. How much work does the gardener do 
+ in mowing the lawn? 
+ a. 35 cos 40° = 26.81 26.81 * 900 = 24.1 Kj 
+ 
+ 10.A 475 kg pre-stressed concrete beam is to be raised 10.0 m in 24.0 s. How many kilowatts of power is needed for the job? 
+ a. 1.98 Kw 
+ 
+ 
+ 11.A hammer falls from a scaffold on a building 50.0 m above the ground. Find its speed as it hits the ground. 
+ a. V = v2GD = v 10(50) = 31.6 m/s 
+ 
+ 
+ 12.A 1250 kg wrecking ball is lifted to a height of 12.7 m above its resting point. When the wrecking ball is released, 
+ it swings toward an abandoned building and makes an indentation of 43.7 cm in the wall. 
+ a. What is the potential energy of the wrecking ball at a height of 12.7 m? 
+ i PE=MGH =1250kg(10m/s 2 )(12.7m) = 158,750 Joules 
+ 
+ b. What is its kinetic energy at the time of striking the wall? 
+ i 158,750 Joules 
+ 
+ c. If the wrecking ball transfers all of its kinetic energy to the wall, how much force does the wrecking ball apply to the wall? 
+ i 158750/0.437 = 363.3 KN 
+ 
+ d. Why should a wrecking ball strike a wall at the lowest point in its swing? 
+ 
+
+ 
+ 
+            
